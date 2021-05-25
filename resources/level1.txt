@@ -1,0 +1,31 @@
+30 60
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+D F    D               MD     D  D      M      D     I     D
+DH  B  D C          DDDDD     D  D  ID         D     M     D
+DDD   DDD               D     D  D  MD         D           D
+D   I            D      D  DDDD  DDDDDDDDDD    DDD DDD     D
+DI         E     D      D           E       I  D           D
+D   A  DDDDD     D      D    DD                            D
+D                D                             C           D
+J                D           C         M               I   D
+D                D                                         D
+D  I             D      D    DD             DD             D
+D                D            M             DDDDD          D
+D  DD  G         D                  E           D          D
+D  DD           DD     E  C                     D          D
+D  DD      F    D                               D          D
+D I        DDDDDD             E     DI          D          D
+D      G   D            F           D           D          D
+D           D           DDDDDD      DD          DDD        D
+DD I    DDDDD                       D           D          D
+DDDDDDDDD  M  DDDDD          DDDDDDDDDDDDDD                D
+DD FF      DDD      D               D     D     D          D
+DD FF    DDDDD      D           DDDDD   F DDDDDDD          D
+DD FF    DDDDD      D           D   D     D          M     D
+DD FF    DDDDD    E D  I      I     D               D      D
+DD FF    DDDDD      D     C         D  C            DDD    D
+DDD                                ED      M  DD    D   M  D
+DD I DD                             D                      D
+D                                   D                      D
+D                                   D                      D
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
